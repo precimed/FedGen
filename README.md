@@ -5,12 +5,12 @@
 ## Contributors
 
 - **Pravesh Parekh** — Center for Multimodal Imaging and Genetics, **J. Craig Venter Institute**, La Jolla, CA, USA; Centre for Precision Psychiatry, Division of Mental Health and Addiction, **University of Oslo** and Oslo University Hospital, Oslo, Norway
-- **Konstantinos Koukoutegos** — Department of Pathology and Laboratory Medicine, Indiana University School of Medicine, Indianapolis, IN, USA
+- **Konstantinos Koukoutegos** — Department of Pathology and Laboratory Medicine, **Indiana University** School of Medicine, Indianapolis, IN, USA
 - **Srikant Sarangi** — **Paradigm4**, Waltham, MA, USA
 - **Espen Hagen** — Centre for Precision Psychiatry, Division of Mental Health and Addiction, **University of Oslo** and Oslo University Hospital, Oslo, Norway
-- **Md Enamul Hoq** — University of Arkansas for Medical Sciences
-- **Mariona Jaramillo Civill** — Northeastern University, Boston, MA, USA
-- **Ioannis Christofilogiannis** — Trinity College Dublin
+- **Md Enamul Hoq** — **University of Arkansas for Medical** Sciences
+- **Mariona Jaramillo Civill** — **Northeastern University**, Boston, MA, USA
+- **Ioannis Christofilogiannis** — **Trinity College Dublin**
 - **Holger Roth** — **NVIDIA**, USA
 
 ---
